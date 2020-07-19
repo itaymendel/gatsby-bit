@@ -4,7 +4,7 @@
   "homepage": "https://bit.dev/esanim/experiments/toggle-b",
   "main": "dist/ToggleB.js",
   "dependencies": {
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "@bit/esanim.experiments.span": "0.0.1"
   },
   "devDependencies": {
